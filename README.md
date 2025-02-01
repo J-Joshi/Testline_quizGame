@@ -20,7 +20,6 @@ A **fully responsive** and **interactive quiz application** built using **React,
 - **Frontend**: React.js, Vite, Tailwind CSS, DaisyUI, Framer Motion
 - **Backend**: Node.js, Express.js
 - **Data Handling**: useState, useEffect, useNavigate
-- **Deployment**: Netlify / Vercel (Frontend), Render / Railway (Backend)
 
 ---
 
