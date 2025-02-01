@@ -28,7 +28,7 @@ A **fully responsive** and **interactive quiz application** built using **React,
 
 `quiz-app/` →  
 &nbsp;&nbsp;├── `backend/` → `server.js` | `package.json` | `.gitignore`  
-&nbsp;&nbsp;├── `frontend/` →  
+&nbsp;&nbsp;├── `qiuz-app/` →  
 &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── `src/` →  
 &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── `components/` → `StartPage.jsx` | `Quiz.jsx` | `Analysis.jsx`  
 &nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── `App.jsx` | `main.jsx`  
