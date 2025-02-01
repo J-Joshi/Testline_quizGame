@@ -24,33 +24,16 @@ A **fully responsive** and **interactive quiz application** built using **React,
 
 ---
 
-## 📂 Project Structure
+📂 **Project Structure**
 
-Here's the correctly formatted Project Structure section for your README.md:
-
-md
-Copy
-Edit
-
-## 📂 Project Structure
-
-quiz-app/
-│── backend/
-│ ├── server.js
-│ ├── package.json
-│ ├── .gitignore
-│── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── StartPage.jsx
-│ │ │ ├── Quiz.jsx
-│ │ │ ├── Analysis.jsx
-│ │ │
-│ │ ├── App.jsx
-│ │ ├── main.jsx
-│ ├── package.json
-│ ├── .gitignore
-│── README.md
+`quiz-app/` →  
+&nbsp;&nbsp;├── `backend/` → `server.js` | `package.json` | `.gitignore`  
+&nbsp;&nbsp;├── `frontend/` →  
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── `src/` →  
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── `components/` → `StartPage.jsx` | `Quiz.jsx` | `Analysis.jsx`  
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── `App.jsx` | `main.jsx`  
+&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── `package.json` | `.gitignore`  
+&nbsp;&nbsp;├── `README.md`
 
 ---
 
