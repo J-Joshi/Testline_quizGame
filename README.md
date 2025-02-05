@@ -36,11 +36,3 @@ A **fully responsive** and **interactive quiz application** built using **React,
 
 ---
 
-## 📦 Installation & Setup
-
-1️⃣ **Clone the Repository**
-
-```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/quiz-app.git
-cd quiz-app
-```
